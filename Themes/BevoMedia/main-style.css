@@ -1,0 +1,87 @@
+* { margin: 0; padding: 0; outline:0; }
+
+body {
+    font-size: 13px;
+    line-height: 1.3;
+    font-family: Arial, Helvetica, Sans-Serif;
+    color: #000;
+    background: #fff;
+    padding: 0 0 30px;
+}
+
+a { color: #0252aa; text-decoration: none; cursor:pointer; }
+a:hover { text-decoration: underline; }
+a img { border: 0; }
+a.more { color: #29abe2; font-size: 11px; text-decoration: underline; }
+a.more:hover { text-decoration: none; }
+
+input, textarea, select { font-size: 12px; font-family: Arial, Helvetica, sans-serif; }
+textarea { overflow: auto; }
+
+.cl { display: block; height: 0; font-size: 0; line-height: 0; text-indent: -4000px; clear: both; }
+.notext { font-size: 0; line-height: 0; text-indent: -4000px; }
+
+.left, .alignleft { float: left; display: inline; }
+.right, .alignright { float: right; display: inline; }
+.tc { text-align: center; }
+
+#wrapper {  }
+.shell { width: 1002px; margin: 0 auto; }
+
+#header { height: 245px; background: url(Images/header.png) repeat-x center 0; }
+h1#logo { float: left; display: inline; width: 349px; height: 158px; padding: 41px 0 0; position: relative; margin: 0 0 0 -36px; }
+h1#logo a { height: 158px; display: block; font-size: 0; line-height: 0; text-indent: -4000px; background: url(Images/logo.png); }
+#navigation { float: right; display: inline; padding: 116px 3px 0 0; }
+#navigation ul { float: left; display: inline; list-style: none; }
+#navigation li { float: left; display: inline; margin: 0 0 0 30px; }
+#navigation li a { font-size: 13px; font-weight: bold; text-transform: uppercase; text-decoration: none; color: #fff; }
+#navigation li a.active,
+#navigation li a:hover { color: #ffed00; }
+#topbar { clear: both; padding: 15px 0 0; position: relative; margin: -29px 0 0; overflow: hidden; float: left; width: 100%; height: 54px; }
+#topbar .for-networks { float: left; padding: 0 0 0 37px; background: url(Images/icon-1.png) no-repeat 0 0; height: 29px; line-height: 29px; font-size: 15px; color: #f15a24; font-weight: bold; text-transform: uppercase; }
+#topbar .for-networks:hover { background: url(Images/icon-1-hover.png) no-repeat 0 0; color: #fff; text-decoration: none; }
+#topbar .for-affiliates { float: left; padding: 0 0 0 18px; background: url(Images/icon-2.png) no-repeat 0 0; height: 29px; line-height: 29px; font-size: 15px; color: #1ae0ff; font-weight: bold; text-transform: uppercase; margin: 0 0 0 30px; }
+#topbar .for-affiliates:hover { background: url(Images/icon-2-hover.png) no-repeat 0 0; color: #fff; text-decoration: none; }
+#topbar .offerhub { float: left; display: inline; margin: 0 3px 0 35px; }
+#topbar .offerhub small { float: left; font-size: 8px; color: #fff; text-transform: uppercase; width: 45px; text-align: right; margin: 1px 7px 0 0; }
+#topbar .offerhub .field-holder { float: left; display: inline; width: 220px; height: 31px; padding: 0 15px; position: relative; background: url(Images/field-holder.png); overflow: hidden; }
+#topbar .offerhub .field-holder .field { border: 0; background: none; font-size: 11px; color: #b3b3b3; padding: 9px 0; width: 200px; }
+#topbar .offerhub .field-holder .submit { position: absolute; top: 4px; right: 2px; float: left; width: 23px; height: 25px; background: url(Images/btn-search.png); font-size: 0; line-height: 0; text-indent: -4000px; cursor: pointer; border: 0;  }
+#topbar .offerhub .field-active .submit { background-position: 0 bottom;  }
+
+#main { padding: 8px 0; height: 100%; }
+#main h3 { font-size: 18px; margin: 0 0 12px; font-weight: normal; }
+#main p { margin: 0 0 12px; }
+#main .col { width: 500px; }
+#main .btn-networks { display: block; margin: 0 auto 5px; width: 279px; height: 52px; background: url(Images/btn-networks.png) no-repeat 0 0; font-size: 0; line-height: 0; text-indent: -4000px; }
+#main .btn-networks:hover { background-position: 0 bottom; }
+#main .intro { font-size: 13px; line-height: 17px; padding: 0 0 25px; }
+#main .box-1 { width: 497px; height: 512px; background: #dbdbdb url(Images/box1.png) no-repeat 0 0; margin: 0 auto 20px; -moz-box-shadow: 1px 1px 5px #d6d5cc; -webkit-box-shadow: 1px 1px 5px #d6d5cc; box-shadow: 1px 1px 5px #d6d5cc; } 
+#main .box-1 a { color: #ed1c24; text-decoration: underline; }
+#main .box-1 a:hover { text-decoration: none; }
+#main .btn-bevo { display: block; width: 273px; height: 237px; background: url(Images/btn-bevo.png) no-repeat 0 0; font-size: 0; line-height: 0; text-indent: -4000px; margin: 0 auto; }
+#main .btn-bevo:hover { background-position: 0 -238px; }
+#main .txt-grow { width: 328px; height: 31px; font-size: 0; line-height: 0; text-indent: -4000px; background: url(Images/text-grow.png); margin: 0 auto 18px;  }
+#main .logos { text-align: center; margin: 0 0 12px; }
+#main .logos img { margin: 0 3px; } 
+#main .par { width: 355px; margin: 0 auto 15px; padding: 0; }
+
+#main .box-2 { width: 498px; height: 512px; background: url(Images/box2.png); color: #fff; margin: 0 0 20px; -moz-box-shadow: 1px 1px 5px #d6d5cc; -webkit-box-shadow: 1px 1px 5px #d6d5cc; box-shadow: 1px 1px 5px #d6d5cc; }
+#main .box-2 a { color: #84a2be; text-decoration: underline; }
+#main .box-2 a:hover { text-decoration: none; }
+#main .col-2 h3 { margin-left: 30px; }
+#main .btn-affiliate { display: block; margin: 0 auto; width: 349px; height: 163px; background: url(Images/btn-affiliate.png); font-size: 0; line-height: 0; text-indent: -4000px; }
+#main .btn-affiliate:hover { background-position: 0 bottom; }
+#main .txt-affiliates { font-size: 0; line-height: 0; text-indent: -4000px; margin: 0 auto; width: 370px; height: 109px; background: url(Images/text-affiliate.png); }
+#main .btn-affiliate-portal { display: block; margin: 0 auto 5px; width: 273px; height: 52px; background: url(Images/btn-affiliate-portal.png) no-repeat 0 0; font-size: 0; line-height: 0; text-indent: -4000px; }
+#main .btn-affiliate-portal:hover { background-position: 0 bottom; }
+#main .socials { background: url(Images/socia-sep.png) no-repeat 0 0; width: 468px; height: 104px; margin: 0 0 0 33px; overflow: hidden; }
+#main .socials a { font-size: 11px; color: #29abe2; text-decoration: underline; }
+#main .socials a:hover { text-decoration: none; }
+#main .socials .icon-ryan { padding: 10px 0 0 105px; background: url(Images/icon-ryan.png) no-repeat 0 0; height: 46px; float: left; margin: 17px 30px 0 0; }
+#main .socials .icon-twitter { padding: 13px 0 0 64px; background: url(Images/icon-twitter.png) no-repeat 0 0; height: 42px; float: left; margin: 17px 42px 0 0; }
+#main .socials .icon-facebook { padding: 0 0 0 50px; background: url(Images/icon-facebook.png) no-repeat 0 0; height: 44px; float: left; margin: 23px 0 0; }
+
+#footer .logo { width: 240px; height: 110px; margin: 0 auto 25px; }
+#footer .logo a { height: 110px; display: block; font-size: 0; line-height: 0; text-indent: -4000px; background: url(Images/logo2.png); }
+#footer .copyright { text-align: center; color: #999; font-size: 11px;  }
