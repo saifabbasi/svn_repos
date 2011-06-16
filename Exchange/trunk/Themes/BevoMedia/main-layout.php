@@ -90,7 +90,7 @@ Shadowbox.init();
 	<div id="footer">
 		<div class="shell">
 			<div class="logo"><a href="#">bevomedia eXchange : for performance marketing</a></div>
-			<p class="copyright">© 2011 - All Rights Reserved. it’s soapdesigned.com</p>
+			<p class="copyright">© 2011 - All Rights Reserved. it's soapdesigned.com</p>
 		</div>
 	</div>
 
