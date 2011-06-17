@@ -56,8 +56,8 @@ Shadowbox.init();
 			</div>
 			<div id="topbar">
 				<div class="right">
-					<a href="#" class="for-networks">For Networks</a>
-					<a href="#" class="for-affiliates">For Affiliates</a>
+					<a href="http://networks.bevomedia.com/" class="for-networks">For Networks</a>
+					<a href="http://beta.bevomedia.com/" class="for-affiliates">For Affiliates</a>
 					<div class="offerhub">
 						<small>INDUSTRY<br />OFFER<br />HUB</small>
 						<form action="" method="post" class="left" onsubmit="$('#SearchGo').click(); return false;">
