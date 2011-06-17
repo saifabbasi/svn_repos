@@ -43,15 +43,15 @@ Shadowbox.init();
 
 	<div id="header">
 		<div class="shell">
-			<h1 id="logo"><a href="#">bevomedia eXchange : for performance marketing</a></h1>
+			<h1 id="logo"><a href="/">bevomedia eXchange : for performance marketing</a></h1>
 			<div id="navigation">
 				<ul>
-					<li><a href="#">ABOUT US</a></li>
+					<li><a href="/BevoMedia/Index/AboutUs.html">ABOUT US</a></li>
 					<li><a href="#">EXECUTIVES</a></li>
-					<li><a href="#">PARTNERS</a></li>
+					<li><a href="/BevoMedia/Index/Partners.html">PARTNERS</a></li>
 					<li><a href="#">INVESTORS</a></li>
-					<li><a href="#">PRESS</a></li>
-					<li><a href="#">CAREERS</a></li>
+					<li><a href="/BevoMedia/Index/Press.html">PRESS</a></li>
+					<li><a href="/BevoMedia/Index/Careers.html">CAREERS</a></li>
 				</ul>
 			</div>
 			<div id="topbar">
@@ -60,10 +60,10 @@ Shadowbox.init();
 					<a href="#" class="for-affiliates">For Affiliates</a>
 					<div class="offerhub">
 						<small>INDUSTRY<br />OFFER<br />HUB</small>
-						<form action="" method="post" class="left">
+						<form action="" method="post" class="left" onsubmit="$('#SearchGo').click(); return false;">
 							<div class="field-holder">
-								<input type="text" class="field blink" value="type any offer name or vertical..." title="type any offer name or vertical..." />
-								<input type="submit" class="submit" value="Go" title="Go" />
+								<input type="text" id="SearchText" class="field blink" value="type any offer name or vertical..." title="type any offer name or vertical..." />
+								<input type="submit" class="submit" id="SearchGo" value="Go" title="Go" />
 							</div>
 						</form>
 					</div>
@@ -90,7 +90,7 @@ Shadowbox.init();
 	<div id="footer">
 		<div class="shell">
 			<div class="logo"><a href="#">bevomedia eXchange : for performance marketing</a></div>
-			<p class="copyright">© 2011 - All Rights Reserved. it's soapdesigned.com</p>
+			<p class="copyright">&copy; 2011 - All Rights Reserved. it's soapdesigned.com</p>
 		</div>
 	</div>
 
@@ -108,6 +108,14 @@ $('a.j_shadowbox').live('click', function() {
 		height: $(this).attr('height') ? $(this).attr('height') : 480,
 	});
 	return false;
+});
+
+$('#SearchGo').click(function() {
+
+	var url = "http://offers.bevomedia.com/BevoMedia/OffersFront/Browse.html#get=searchresults&search="+$('#SearchText').val()+"&type=lead&include_mysaved=1&numresults=100&page=1";
+	window.location = url;
+	return false;
+	
 });
 </script>
 

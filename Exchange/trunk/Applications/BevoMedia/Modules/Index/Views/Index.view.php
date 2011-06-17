@@ -10,15 +10,15 @@
 					<a href="#" class="btn-bevo">bevo for networks.</a>
 					<h3 class="txt-grow">Grow your Affiliate Network Program!</h3>
 					<div class="logos">
-						<a href="#"><img src="css/images/logo-1.png" alt="" /></a>
-						<a href="#"><img src="css/images/logo-2.png" alt="" /></a>
-						<a href="#"><img src="css/images/logo-3.png" alt="" /></a>
-						<a href="#"><img src="css/images/logo-4.png" alt="" /></a>
+						<a href="#"><img src="/Themes/BevoMedia/Images/logo-1.png" alt="" /></a>
+						<a href="#"><img src="/Themes/BevoMedia/Images/logo-2.png" alt="" /></a>
+						<a href="#"><img src="/Themes/BevoMedia/Images/logo-3.png" alt="" /></a>
+						<a href="#"><img src="/Themes/BevoMedia/Images/logo-4.png" alt="" /></a>
 					</div>
 					<p class="par">
 						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
 					</p>
-					<a href="#" class="btn-networks">Go to networks portal</a>
+					<a href="http://beta.bevomedia.com/" class="btn-networks">Go to networks portal</a>
 					<p class="tc"><a href="#">or, learn more first</a></p>
 				</div>
 				
@@ -37,21 +37,21 @@
 					<a href="#" class="btn-affiliate">affiliate portal</a>
 					<h3 class="txt-affiliates">affiliates: the only place you'll ever need to be!</h3>
 					<div class="logos">
-						<a href="#"><img src="css/images/logo-5.png" alt="" /></a>
-						<a href="#"><img src="css/images/logo-6.png" alt="" /></a>
-						<a href="#"><img src="css/images/logo-7.png" alt="" /></a>
-						<a href="#"><img src="css/images/logo-8.png" alt="" /></a>
+						<a href="#"><img src="/Themes/BevoMedia/Images/logo-5.png" alt="" /></a>
+						<a href="#"><img src="/Themes/BevoMedia/Images/logo-6.png" alt="" /></a>
+						<a href="#"><img src="/Themes/BevoMedia/Images/logo-7.png" alt="" /></a>
+						<a href="#"><img src="/Themes/BevoMedia/Images/logo-8.png" alt="" /></a>
 					</div>
 					<p class="par">
 						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
 					</p>
-					<a href="#" class="btn-affiliate-portal">Go to affiliate portal</a>
+					<a href="http://networks.bevomedia.com/" class="btn-affiliate-portal">Go to affiliate portal</a>
 					<p class="tc"><a href="#">or, learn more first</a></p>
 				</div>
 				
 				<h3>bevo on the web</h3>
 				<div class="socials">
-					<a href="#" class="icon-ryan">read our<br />official blog</a>
+					<a href="http://blog.bevomedia.com/" class="icon-ryan">read our<br />official blog</a>
 					<a href="#" class="icon-twitter">follow us on<br />twitter</a>
 					<a href="#" class="icon-facebook">find us on<br />facebook</a>
 				</div>
