@@ -179,6 +179,13 @@ Class IndexController extends ClassComponent
 			die;
 		}
 	}
+	
+	Public Function Partners()
+	{
+		$Sql = "SELECT id, title FROM bevomedia_aff_network WHERE isValid = 'Y' ORDER BY title ";
+		$this->Networks = $this->db->fetchAll($Sql);		
+	}
+	
 }
 
 ?>
