@@ -18,7 +18,7 @@
 					<p class="par">
 						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
 					</p>
-					<a href="http://beta.bevomedia.com/" class="btn-networks">Go to networks portal</a>
+					<a href="http://networks.bevomedia.com/" class="btn-networks">Go to networks portal</a>
 					<p class="tc"><a href="#">or, learn more first</a></p>
 				</div>
 				
@@ -45,7 +45,7 @@
 					<p class="par">
 						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
 					</p>
-					<a href="http://networks.bevomedia.com/" class="btn-affiliate-portal">Go to affiliate portal</a>
+					<a href="http://beta.bevomedia.com/" class="btn-affiliate-portal">Go to affiliate portal</a>
 					<p class="tc"><a href="#">or, learn more first</a></p>
 				</div>
 				
