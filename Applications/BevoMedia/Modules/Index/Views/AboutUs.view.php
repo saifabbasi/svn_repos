@@ -24,10 +24,12 @@
 		The mission of Bevo Media starts with our dedication to our publishers. As the founders affiliate marketers ourselves, we saw a great need in the market for more organization and an increase in the availability of knowledge. Bevo Media is committed to bringing both convenience and education to the marketplace of affiliate marketing. 
 	</p>
 
-	<h3>Bevo Media's Values</h3>
-	
-	<p><strong>Creativity</strong> - Bevo Media hopes to inspire our publishers to find new and innovative means of being successful as an affiliate marketer.</p>	
-	<p><strong>Personal Growth</strong> - Bevo Media strives to grow its publishers, helping them to realize their earnings potential.</p>	
-	<p><strong>Relationship </strong> - Bevo Media values the relationship with its publishers. Bevo's business model allows the interests of both our company and our publishers to be aligned - we want you to be successful!</p>	
-	<p><strong>Work Ethic </strong> - Bevo Media prides itself on its consistent efforts to realize its mission and truly change the affiliate marketing industry.</p>
+	<blockquote class="normaltxt">
+		<h3>Bevo Media's Values</h3>
+		
+		<p><strong>Creativity</strong> - Bevo Media hopes to inspire our publishers to find new and innovative means of being successful as an affiliate marketer.</p>	
+		<p><strong>Personal Growth</strong> - Bevo Media strives to grow its publishers, helping them to realize their earnings potential.</p>	
+		<p><strong>Relationship </strong> - Bevo Media values the relationship with its publishers. Bevo's business model allows the interests of both our company and our publishers to be aligned - we want you to be successful!</p>	
+		<p><strong>Work Ethic </strong> - Bevo Media prides itself on its consistent efforts to realize its mission and truly change the affiliate marketing industry.</p>
+	</blockquote>
 	
