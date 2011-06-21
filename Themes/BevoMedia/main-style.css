@@ -170,7 +170,8 @@ blockquote { padding:15px; margin:0 0 20px; border:1px solid #e6e6e6; background
 	.b_bevofornetworks .nwfeats .col li { margin:0 0 15px; font-size:.9em; }
 	.b_bevofornetworks .nwfeats .col li span { color:#EC2227; font-weight:bold; }
 		
-
+.b_careers table { border:1px solid #ccc; }
+.b_careers table td { padding:15px; background:#fff; }
 
 /*global*/
 	/*btns*/
@@ -185,5 +186,6 @@ input.btn { border:none; font-size:0px; line-height:0px; cursor:pointer; }
 .btn.bigaff { width:344px; height:164px; background:url(Images/btn_bigaff.jpg) no-repeat; }
 .btn.gotonwportal { width:302px; height:73px; background:url(Images/btn_gotonwportal.png) no-repeat; }
 .btn.gotoaffportal { width:341px; height:74px; background:url(Images/btn_gotoaffportal.png) no-repeat; }
+
 
 
