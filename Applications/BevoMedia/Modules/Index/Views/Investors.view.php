@@ -1,2 +1,2 @@
 <h2>Investors</h2>
-<p>To date, Bevo Media has been entirely funded by its founders and managing partners. If you or your company believe you can help Bevo Media achieve its long term fiscal goals, please contact <a href="mailto:investors@bevomedia.com">investors@bevomedia.com</a>.</p>
+<blockquote>To date, Bevo Media has been entirely funded by its founders and managing partners. If you or your company believe you can help Bevo Media achieve its long term fiscal goals, please contact <a href="mailto:investors@bevomedia.com">investors@bevomedia.com</a>.</blockquote>
