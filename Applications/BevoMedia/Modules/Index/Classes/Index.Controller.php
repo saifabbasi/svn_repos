@@ -182,7 +182,12 @@ Class IndexController extends ClassComponent
 	
 	Public Function Partners()
 	{
-		$Sql = "SELECT id, title FROM bevomedia_aff_network WHERE isValid = 'Y' ORDER BY title ";
+		$noShow = array(1002,1003,1009,1010,1011,1012,1013,1014,1015,1018,1019,1020,1021,1039,1042);
+		
+		$Sql = "SELECT id, title FROM bevomedia_aff_network 
+			WHERE isValid = 'Y'
+			AND id NOT IN (".implode(',', $noShow).")
+			ORDER BY title ";
 		$this->Networks = $this->db->fetchAll($Sql);		
 	}
 	
