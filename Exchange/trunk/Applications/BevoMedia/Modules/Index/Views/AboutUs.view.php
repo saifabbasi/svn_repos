@@ -11,7 +11,7 @@
 			San Diego, CA 92130<br />
 		</td>
 		<td>
-			<img src="http://beta.bevomedia.com/Themes/BevoMedia/img/BevoMediaDelMar.png" />
+			<img src="/Themes/BevoMedia/Images/content_about_bevohq.jpg" />
 		</td>
 	</tr>
 	</table>
