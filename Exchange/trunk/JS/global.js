@@ -1,12 +1,10 @@
 jQuery(document).ready(function($) {
 	
 	$('.blink').focus(function () {
-		$(this).parent('.field-holder').addClass('field-active');
 		if ($(this).val() == $(this).attr('title')) {
 			$(this).val('');
 		}
 	}).blur(function () {
-		$(this).parent('.field-holder').removeClass('field-active');
 		if ($(this).val() == '') {
 			$(this).val($(this).attr('title'));
 		}
