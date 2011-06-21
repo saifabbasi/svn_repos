@@ -1,6 +1,4 @@
-
-	<h1>Partners</h1>
-	<br />
+	<h2>BevoMedia Exchange Partners</h2>
 	
 	<?php 
 		foreach ($this->Networks as $Network)
