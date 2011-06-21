@@ -144,7 +144,7 @@ blockquote.normaltxt { font-family:Georgia, "Times New Roman", serif; color:#4d4
 .b_executives .anno {}
 .b_executives .anno p { font-size:.9em; line-height:1.5em !important; color:#777;}
 
-.b_partners img { max-height:60px; margin:0 13px 15px 0; }
+.b_partners img { /*max-height:60px;*/ margin:0 13px 15px 0; }
 
 .b_bevofornetworks img { margin:0 0 15px; }
 .b_bevofornetworks img.last { margin-top:25px; }
@@ -187,6 +187,7 @@ input.btn { border:none; font-size:0px; line-height:0px; cursor:pointer; }
 .btn.bigaff { width:344px; height:164px; background:url(Images/btn_bigaff.jpg) no-repeat; }
 .btn.gotonwportal { width:302px; height:73px; background:url(Images/btn_gotonwportal.png) no-repeat; }
 .btn.gotoaffportal { width:341px; height:74px; background:url(Images/btn_gotoaffportal.png) no-repeat; }
+
 
 
 
