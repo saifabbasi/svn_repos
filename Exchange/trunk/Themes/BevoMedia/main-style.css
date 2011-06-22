@@ -28,7 +28,7 @@ textarea { overflow: auto; }
 
 .left, .alignleft { float: left; display: inline; }
 .right, .alignright { float: right; display: inline; }
-.aligncenter { align:center; }
+.aligncenter { text-align:center; }
 .tc { text-align: center; }
 
 #wrapper {  }
@@ -148,7 +148,7 @@ blockquote.normaltxt { font-family:Georgia, "Times New Roman", serif; color:#4d4
 .b_executives .anno {}
 .b_executives .anno p { font-size:.9em; line-height:1.5em !important; color:#777;}
 
-.b_partners img { /*max-height:60px;*/ margin:0 13px 15px 0; }
+.b_partners img { margin:0 13px 15px 0; }
 
 .b_bevofornetworks img { margin:0 0 15px; }
 .b_bevofornetworks img.last { margin-top:25px; }
@@ -174,6 +174,28 @@ blockquote.normaltxt { font-family:Georgia, "Times New Roman", serif; color:#4d4
 	.b_bevofornetworks .nwfeats .col ul { list-style-type:square; }
 	.b_bevofornetworks .nwfeats .col li { margin:0 0 15px; font-size:.9em; }
 	.b_bevofornetworks .nwfeats .col li span { color:#EC2227; font-weight:bold; }
+
+.b_affiliateportal .feats { padding:15px; margin:0 0 25px; border:1px solid #ccc; background:#fff; }	
+.b_affiliateportal .feats h2 { width:550px; height:94px; margin:0 !important; text-indent:-9999px; }
+	.b_affiliateportal .feats h2.networks { background:url(Images/content_aff_feats_networks.gif) no-repeat; }
+	.b_affiliateportal .feats h2.offers { background:url(Images/content_aff_feats_offers.gif) no-repeat; }
+	.b_affiliateportal .feats h2.ppc { background:url(Images/content_aff_feats_ppc.gif) no-repeat; }
+	.b_affiliateportal .feats h2.keywords { background:url(Images/content_aff_feats_keywords.gif) no-repeat; }
+	.b_affiliateportal .feats h2.analytics { background:url(Images/content_aff_feats_analytics.gif) no-repeat; }
+	.b_affiliateportal .feats h2.classroom { background:url(Images/content_aff_feats_classroom.gif) no-repeat; }
+	
+	.b_affiliateportal .feats ul { margin:0 0 0 15px; list-style-type:square; font-family:Helvetica, Arial, sans-serif; }
+	.b_affiliateportal .feats li { margin:0 0 5px; font-size:.9em; }
+	.b_affiliateportal .feats li span { color:#29abe2; font-weight:bold; }
+
+.b_affiliateportal .box { width:450px; padding:15px; margin:0 15px 15px 0; float:left; display:inline; border:1px solid #ccc; background:#fff; }
+        .b_affiliateportal .box img { width:150px; margin:0 35px 0 0; float:left; }
+        .b_affiliateportal .box .floatleft { width:250px; float:left; }
+        .b_affiliateportal .box .floatleft h2 { margin:0 0 15px !important; font-size:1.8em !important; }
+        .b_affiliateportal .box .floatleft p { font-size:.9em; }
+
+
+.b_affiliateportal a.btn { margin:0 auto; }
 		
 .b_careers table { border:1px solid #ccc; }
 .b_careers table td { padding:15px; background:#fff; }
@@ -191,6 +213,9 @@ input.btn { border:none; font-size:0px; line-height:0px; cursor:pointer; }
 .btn.bigaff { width:344px; height:164px; background:url(Images/btn_bigaff.jpg) no-repeat; }
 .btn.gotonwportal { width:302px; height:73px; background:url(Images/btn_gotonwportal.png) no-repeat; }
 .btn.gotoaffportal { width:341px; height:74px; background:url(Images/btn_gotoaffportal.png) no-repeat; }
+
+
+
 
 
 
