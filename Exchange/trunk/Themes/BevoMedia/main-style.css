@@ -144,6 +144,7 @@ blockquote.normaltxt { font-family:Georgia, "Times New Roman", serif; color:#4d4
 
 .b_executives blockquote { width:400px; margin:0 20px 0 0; }
 .b_executives blockquote h3 { margin:0 0 15px !important; }
+.b_executives img.unicrest { margin:10px 0 0; display:block; }
 .b_executives .anno {}
 .b_executives .anno p { font-size:.9em; line-height:1.5em !important; color:#777;}
 
@@ -190,5 +191,6 @@ input.btn { border:none; font-size:0px; line-height:0px; cursor:pointer; }
 .btn.bigaff { width:344px; height:164px; background:url(Images/btn_bigaff.jpg) no-repeat; }
 .btn.gotonwportal { width:302px; height:73px; background:url(Images/btn_gotonwportal.png) no-repeat; }
 .btn.gotoaffportal { width:341px; height:74px; background:url(Images/btn_gotoaffportal.png) no-repeat; }
+
 
 
