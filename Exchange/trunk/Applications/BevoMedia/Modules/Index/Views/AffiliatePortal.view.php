@@ -35,15 +35,15 @@
 	
 	<h2 class="analytics">Campaign Analytics Management</h2>
 	<ul>
-		<li><span>Track</span> your keywords and see which ones outperformed others.</li>
-		<li><span>Optimize</span> your campaigns easily using valuable insights.</li>
+		<li><span>Integrate</span> your Google Analytics account with Bevo to get all the most important information about your campaigns in a single place.</li>
+		<li><span>View</span> detailed visitor info and drill down on the site level to identify key factors.</li>
 	</ul>
 	<div class="sepa"></div>
 	
 	<h2 class="classroom">Learn Affiliate Marketing</h2>
 	<ul>
-		<li><span>Track</span> your keywords and see which ones outperformed others.</li>
-		<li><span>Optimize</span> your campaigns easily using valuable insights.</li>
+		<li><span>Learn</span> affiliate marketing from hundreds of videos, articles, tutorials, and tools that help teach new affiliates the ropes, for free.</li>
+		<li><span>Get started</span> with your internet marketing careeer, or give yourself a knowledge infusion. The Bevo Affiliate Classroom has it all.</li>
 	</ul>
 </div><!--close feats-->
 
