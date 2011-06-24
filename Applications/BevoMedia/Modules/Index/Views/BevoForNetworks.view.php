@@ -35,7 +35,7 @@
 
 <div class="sepa"></div>
 
-<h3>Bevo for Networks all you've ever wanted to optimize your business. So, what's inside?</h3>
+<h3>Bevo for Networks is all you've ever wanted to optimize your business.</h3>
 
 <div class="nwfeats">
 	<div class="col col1">

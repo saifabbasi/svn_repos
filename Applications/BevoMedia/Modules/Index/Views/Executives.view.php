@@ -26,15 +26,14 @@
 	</div>
 </blockquote>
 <div class="anno">
-	<p>Michael Chambrello entered the online marketing space in 2006 when he began building and flipping incentivized websites, leading him to gain experience in search and social marketing. With this experience, Chambrello went on to co-found a short lived local search marketing company and to become a partner in the Bevo Media Exchange. While at Syracuse University, Chambrello studied English and Textual Studies and played football for the Orange.</p>
-	<p>Michael Chambrello is from Southington, CT and currently resides in San Diego, CA.</p>
+	<p>Michael Chambrello entered the online marketing space in 2006 when he began building and selling incentivized websites, leading him to gain experience in search and social marketing. With this experience, Chambrello went on to co-found a successful local search marketing company and to become a partner in the Bevo Media Exchange. While at Syracuse University, Chambrello studied English and Textual Studies and played football for the Orange. Chambrello was recognized for academic achievement by the Big East in 2007. Chambrello is currently involved in other online business ventures, particularly in the mobile application space. Michael Chambrello is originally from Southington, CT and currently resides in San Diego, CA.</p>
 </div>
 
 <div class="clear"></div>
 <div class="sepa"></div>
 
 <blockquote class="floatleft">
-	<div style="width:150px; height:200px; margin:0 15px 0 0; float:left; border:1px solid #666; background:#ccc;">pic</div>
+	<img class="floatleft" src="/Themes/BevoMedia/Images/content_execs_michael_vellucci.gif" alt="Michael F. Vellucci" />
 	<div class="floatleft">	
 		<h3>Michael F. Vellucci</h3>
 		Chief Financial Officer and Co-Founder<br />
