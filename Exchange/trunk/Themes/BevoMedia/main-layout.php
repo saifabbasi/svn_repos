@@ -113,7 +113,7 @@
 				<li><a href="/BevoMedia/Index/Press.html">Press</a></li>
 				<li><a href="/BevoMedia/Index/Careers.html">Careers</a></li>
 			</ul>
-			<p class="copyright">&copy; 2011 - All Rights Reserved. it's soapdesigned.com</p>
+			<p class="copyright">&copy; 2011 - All Rights Reserved. Bevo Media - San Diego, CA 92130</p>
 		</div>
 	</div>
 
@@ -138,6 +138,15 @@ $('#SearchGo').click(function() {
 	return false;
 	
 });
+</script>
+
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script> 
+<script type="text/javascript"> 
+var pageTracker = _gat._getTracker("UA-6678573-1");
+pageTracker._trackPageview();
 </script>
 
 </body>
