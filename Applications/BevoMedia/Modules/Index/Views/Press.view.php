@@ -5,6 +5,9 @@
 	<blockquote>Bevo Media Selected As The Rackspace (NYSE: RAX) Partner Of The Year. <a target="_blank" href="http://bestinternetmarketingblog.info/internet-marketing-2/affiliate-marketing/bevo-media-recognized-by-rackspace-channel-partner-program-with-the-emerging-cloud-partner-of-the-year-award/">http://bestinternetmarketingblog.info/internet-marketing-2/affiliate-marketing/bevo-media-recognized-by-rackspace-channel-partner-program-with-the-emerging-cloud-partner-of-the-year-award/</a>
 	</blockquote>
 	
+	<blockquote>Bevo President Ryan Bukevicz interview on AffiliatePaying <a target="_blank" href="http://www.affiliatepaying.com/blog/interview-ryan-bukevicz-bevo-media">http://www.affiliatepaying.com/blog/interview-ryan-bukevicz-bevo-media</a>
+	</blockquote>
+	
 	<blockquote>Bevo Media President Ryan Bukevicz interview <a target="_blank" href="http://www.jonathanvolk.com/affiliate-marketers/interview-ryan-bukevicz.html">http://www.jonathanvolk.com/affiliate-marketers/interview-ryan-bukevicz.html</a></blockquote>
 	
 	<blockquote>Bevo Media on CrunchBase  <a target="_blank" href="http://www.crunchbase.com/company/bevo-media">http://www.crunchbase.com/company/bevo-media</a>
