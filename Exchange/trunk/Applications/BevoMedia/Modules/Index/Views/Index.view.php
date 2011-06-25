@@ -1,10 +1,10 @@
-<p>The Bevo Media Exchange is the central hub for all performance based marketing. The Bevo Media Exchange is to made up of 2 featured platforms. The Bevo Affiliate Platform and Bevo for Networks. The primary goal of the Bevo Media Exchange focused on affiliates forge elite service in performance marketing and to offer new and innovative ways to excel in the online marketing space.</p>
+<p>The Bevo Media Exchange is the affiliate industry's central hub for performance based marketing. The Bevo Media Exchange is to made up of 2 featured platforms, The Bevo Affiliate Portal and The Bevo Networks Interface. The Bevo Media Exchange is the creative new way to create the necessary transparency for both affiliates and networks to interact and grow their businesses together.</p>
 
 <div id="homefeats">
 	<div class="left">
 		<a class="btn bignw" href="/BevoMedia/Index/BevoForNetworks.html">Bevo for Networks</a>
 		<div class="below">
-			<p>Bevo For Networks is the primary management hub built exclusively for networks. The 'Networks Interface' is designed to help networks grow and more efficiently manage their businesses.</p>
+			<p>Bevo For Networks is the primary management hub built exclusively for networks. The Bevo Networks Interface is designed to help networks grow and more efficiently manage their business.</p>
 			<a class="btn gotonwportal" href="http://networks.bevomedia.com/">Go to Networks Portal</a>
 			<a class="small" href="/BevoMedia/Index/BevoForNetworks.html">or, learn more first</a>
 		</div>
@@ -12,7 +12,7 @@
 	<div class="right">
 		<a class="btn bigaff" href="/BevoMedia/Index/AffiliatePortal.html">Bevo for Networks</a>
 		<div class="below">
-			<p>The Bevo Media Affiliate Portal is the one stop shop for all of an internet marketers needs. The Affiliate Portal is designed to effectively reduce the hardest and most time consuming aspects of internet marketing.</p>
+			<p>The Bevo Media Affiliate Portal is the one stop marketing platform to manage all the needs of affiliate marketers. Loaded with 'must have' tools, the Affiliate Portal is designed to effectively reduce the hardest and most time consuming aspects of online marketing.</p>
 			<a class="btn gotoaffportal" href="http://bevomedia.com/">Go to Affiliate Portal</a>
 			<a class="small" href="/BevoMedia/Index/AffiliatePortal.html">or, learn more first</a>
 		</div>
