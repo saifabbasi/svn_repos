@@ -112,6 +112,9 @@
 				<li><a href="/BevoMedia/Index/Investors.html">Investors</a></li>
 				<li><a href="/BevoMedia/Index/Press.html">Press</a></li>
 				<li><a href="/BevoMedia/Index/Careers.html">Careers</a></li>
+				<br />
+				<li><a href="/BevoMedia/Index/Terms.html">Terms &amp; Conditions</a></li>
+				<li><a href="/BevoMedia/Index/Privacy.html">Privacy Policy</a></li>
 			</ul>
 			<p class="copyright">&copy; 2011 - All Rights Reserved. Bevo Media - San Diego, CA 92130</p>
 		</div>
