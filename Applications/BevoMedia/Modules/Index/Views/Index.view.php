@@ -12,7 +12,7 @@
 	<div class="right">
 		<a class="btn bigaff" href="/BevoMedia/Index/AffiliatePortal.html">Bevo for Networks</a>
 		<div class="below">
-			<p>The Bevo Media Affiliate Portal is the one stop marketing platform to manage all the needs of affiliate marketers. Loaded with 'must have' tools, the Affiliate Portal is designed to effectively reduce the hardest and most time consuming aspects of online marketing.</p>
+			<p>The Bevo Media Affiliate Portal is the one stop marketing platform to manage the important needs of affiliate marketers. Loaded with 'must have' tools, the Affiliate Portal is designed to effectively reduce the most time consuming work for affiliates.</p>
 			<a class="btn gotoaffportal" href="http://bevomedia.com/">Go to Affiliate Portal</a>
 			<a class="small" href="/BevoMedia/Index/AffiliatePortal.html">or, learn more first</a>
 		</div>
@@ -29,8 +29,8 @@
 	<h3>bevo on the web</h3>
 	<div class="socials">
 		<a href="http://ryanbuke.com/" class="icon-ryan">read our<br />official blog</a>
-		<a href="#" class="icon-twitter">follow us on<br />twitter</a>
-		<a href="#" class="icon-facebook">find us on<br />facebook</a>
+		<a href="http://twitter.com/BevoMedia" class="icon-twitter" target="_blank">follow us on<br />twitter</a>
+		<a href="http://www.facebook.com/bevomedia" class="icon-facebook" target="_blank">find us on<br />facebook</a>
 	</div>
 </div>
 <div class="clear"></div>
