@@ -4,7 +4,7 @@
 	<div class="left">
 		<a class="btn bignw" href="/BevoMedia/Index/BevoForNetworks.html">Bevo for Networks</a>
 		<div class="below">
-			<p>Bevo For Networks is the primary management hub built exclusively for networks. The Bevo Networks Interface is designed to help networks grow and more efficiently manage their business.</p>
+			<p>Bevo For Networks is the primary management hub built exclusively for affiliate networks. The Bevo Networks Interface is designed to help affiliate networks grow and more efficiently manage their business.</p>
 			<a class="btn gotonwportal" href="http://networks.bevomedia.com/">Go to Networks Portal</a>
 			<a class="small" href="/BevoMedia/Index/BevoForNetworks.html">or, learn more first</a>
 		</div>
