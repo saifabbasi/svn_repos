@@ -2,7 +2,7 @@
 
 <div id="homefeats">
 	<div class="left">
-		<a class="btn bignw" href="/BevoMedia/Index/BevoForNetworks.html">Bevo for Networks</a>
+	<a class="btn bignw" href="http://networks.bevomedia.com/">Bevo for Networks</a>
 		<div class="below">
 			<p>Bevo For Networks is the primary management hub built exclusively for affiliate networks. The Bevo Networks Interface is designed to help affiliate networks grow and more efficiently manage their business.</p>
 			<a class="btn gotonwportal" href="http://networks.bevomedia.com/">Go to Networks Portal</a>
@@ -10,7 +10,7 @@
 		</div>
 	</div>
 	<div class="right">
-		<a class="btn bigaff" href="/BevoMedia/Index/AffiliatePortal.html">Bevo for Networks</a>
+	<a class="btn bigaff" href="http://bevomedia.com/">BevoMedia Affiliate Portal</a>
 		<div class="below">
 			<p>The Bevo Media Affiliate Portal is the one stop marketing platform to manage the important needs of affiliate marketers. Loaded with 'must have' tools, the Affiliate Portal is designed to effectively reduce the most time consuming work for affiliates.</p>
 			<a class="btn gotoaffportal" href="http://bevomedia.com/">Go to Affiliate Portal</a>
