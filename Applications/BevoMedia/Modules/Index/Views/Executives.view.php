@@ -1,5 +1,5 @@
 <blockquote class="floatleft">
-	<img class="floatleft" src="/Themes/BevoMedia/Images/content_execs_ryan_bukevicz.jpg" alt="Michael F. Vellucci" />
+	<img class="floatleft" src="/Themes/BevoMedia/Images/content_execs_ryan_bukevicz.jpg" alt="Ryan Bukevicz" />
 	<div class="floatleft">
 		<h3>Ryan Bukevicz</h3>
 		President and Co-Founder<br />
@@ -18,7 +18,7 @@
 <div class="sepa"></div>
 
 <blockquote class="floatleft">
-	<img class="floatleft" src="/Themes/BevoMedia/Images/content_execs_michael_chambrello.jpg" alt="Michael F. Vellucci" />
+	<img class="floatleft" src="/Themes/BevoMedia/Images/content_execs_michael_chambrello.jpg" alt="Michael N. Chambrello" />
 	<div class="floatleft">
 		<h3>Michael N. Chambrello</h3>
 		Managing Partner<br />
