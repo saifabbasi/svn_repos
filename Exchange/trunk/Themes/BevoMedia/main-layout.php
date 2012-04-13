@@ -22,7 +22,7 @@
 <html>
 
 <head>
-	<title>The Bevo Media Exchange - The Performance Marketing Exchange for Affiliate Marketing</title>
+	<title>The Bevo Media Exchange - Corporate Site - The Performance Marketing Exchange For Affiliate Marketing</title>
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	
