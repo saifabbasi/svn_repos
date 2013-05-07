@@ -13,7 +13,7 @@
 		);
 		
 		if(array_key_exists(Zend_Registry::get('Instance/Function'), $topmenuPages) && $page == $topmenuPages[Zend_Registry::get('Instance/Function')]) {
-			return ' active';
+			return ' class="active"';
 		}
 	}//isActivePage()
 	
@@ -30,7 +30,7 @@
 	
 	<meta name="keywords" content="<?=$this->{'Instance/PageKeywords'};?>" />
 	<meta name="description" content="<?=$this->{'Instance/PageDescription'};?>" />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	
 	<link type='text/css' rel='stylesheet' href='/Themes/BevoMedia/main-style.css' />
 	
@@ -39,7 +39,7 @@
 	<![endif]-->
 	
 	 
-	<link rel="stylesheet" type="text/css" href="/JS/Dashboard/shadowbox.css">
+	<link rel="stylesheet" type="text/css" href="/JS/Dashboard/shadowbox.css" />
 	
 	<script type="text/javascript" src="<?=isset($_SERVER['HTTPS'])?'https':'http'?>://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
 	<script src="/JS/Dashboard/shadowbox.js" type="text/javascript"></script>
@@ -54,71 +54,94 @@
 	Shadowbox.init();
 </script>
 
-<?php include 'Themes/BevoMedia/bevoswitch.php'; ?>
-
-<div id="wrapper">
-
-	<div id="header">
+<div class="body">
+	<div id="bevoswitch">
 		<div class="shell">
-			<h1 id="logo"><a href="/">bevomedia eXchange : for performance marketing</a></h1>
-			<div id="navigation">
-				<ul>
-					<li><a class="btn topabout<?=isActivePage('about');?>" href="/BevoMedia/Index/AboutUs.html">ABOUT US</a></li>
-					<li><a class="btn topexecutives<?=isActivePage('executives');?>" href="/BevoMedia/Index/Executives.html">EXECUTIVES</a></li>
-					<li><a class="btn toppartners<?=isActivePage('partners');?>" href="/BevoMedia/Index/Partners.html">PARTNERS</a></li>
-					<li><a class="btn topinvestors<?=isActivePage('investors');?>" href="/BevoMedia/Index/Investors.html">INVESTORS</a></li>
-					<li><a class="btn toppress<?=isActivePage('press');?>" href="/BevoMedia/Index/Press.html">PRESS</a></li>
-					<li><a class="btn topcareers<?=isActivePage('careers');?>" href="/BevoMedia/Index/Careers.html">CAREERS</a></li>
-				</ul>
-			</div>
-			<div id="topbar">
-				<div class="right">
-					<a class="btn topnw<?=isActivePage('nw');?>" href="/BevoMedia/Index/BevoForNetworks.html">For Networks</a>
-					<a class="btn topaff<?=isActivePage('aff');?>" href="/BevoMedia/Index/AffiliatePortal.html">For Affiliates</a>
-					
-					<div class="offerhub">
-						<small>INDUSTRY<br />OFFER<br />HUB</small>
-						<form action="" method="post" class="left" onsubmit="$('#SearchGo').click(); return false;">
-							<div class="field-holder">
-								<input type="text" id="SearchText" class="field blink" value="type any offer name or vertical..." title="type any offer name or vertical..." />
-								<input type="submit" class="submit" id="SearchGo" value="Go" title="Go" />
-							</div>
-						</form>
-					</div>
-				</div>
-				<div class="cl">&nbsp;</div>
-			</div>
+			<a class="active floatleft" href="/">Bevo Media Exchange<b></b></a>
+			<a class="floatleft" href="http://ads.bevomedia.com" target="_blank">Bevo Ads<b></b></a>
+			<a class="floatleft" href="http://affportal.bevomedia.com/" target="_blank">Bevo Affiliate Portal</a>
+			<a class="floatleft" href="http://networks.bevomedia.com/" target="_blank">Bevo for Networks</a>
+			<a class="floatleft" href="http://offers.bevomedia.com/" target="_blank">Bevo OfferHub</a>
+			
+			<a class="icon blog floatright" href="http://blog.bevomedia.com/" target="_blank" title="The official Bevo Media Blog">Official BevoMedia Blog</a>
+			<a class="icon facebook floatright" href="http://www.facebook.com/bevomedia" target="_blank" title="Find Bevo Media on Facebook">Find Bevo Media on Facebook</a>
+			<a class="icon twitter floatright" href="http://twitter.com/BevoMedia" target="_blank" title="Follow Bevo Media on Twitter">Follow Bevo Media on Twitter</a>
+			<div class="clear"></div>
 		</div>
 	</div>
 	
+	<div id="header">	
+		<div class="xstripe">
+			<div class="shell">
+				<div class="hilite"></div>
+			</div>
+		</div>
+		
+		<div id="nav">
+			<div class="shell">
+				<h1 id="logo"><a href="/" title="Home">The Bevo Media Exchange - Corporate Site - The Performance Marketing Exchange For Affiliate Marketing</a></h1>
+				<div id="menu">
+					<a<?=isActivePage('about');?> href="/BevoMedia/Index/AboutUs.html">About us<b></b></a>
+					<a<?=isActivePage('executives');?> href="/BevoMedia/Index/Executives.html">Executives<b></b></a>
+					<a<?=isActivePage('partners');?> href="/BevoMedia/Index/Partners.html">Partners<b></b></a>
+					<a<?=isActivePage('investors');?> href="/BevoMedia/Index/Investors.html">Investors<b></b></a>
+					<a<?=isActivePage('press');?> href="/BevoMedia/Index/Press.html">Press<b></b></a>
+					<a<?=isActivePage('careers');?> href="/BevoMedia/Index/Careers.html">Careers<b></b></a>
+				</div>			
+				<div class="clear"></div>
+			</div><!--close .shell-->
+		</div><!--close #nav-->
+	</div><!--close header-->
+	
 	<div id="main">
+		<?php /*for bgpic later
+		<div id="bgi"></div>
+		<div class="bgtrans_main"></div>
+		*/ ?>		
 		<div class="shell">
 			<?=$this->{'Instance/ViewContent'};?>
 			<div class="cl">&nbsp;</div>
 		</div>
 	</div>
-	
-	<div id="footer">
-		<div class="shell">
-			<div class="logo"><a href="#">bevomedia eXchange : for performance marketing</a></div>
-			<ul class="mainfoot">
-				<li><a href="/BevoMedia/Index/BevoForNetworks.html">Bevo for Networks</a></li>
-				<li><a href="/BevoMedia/Index/AffiliatePortal.html">Bevo Affiliate Portal</a></li>
-			</ul>
-			<ul class="subfoot">
-				<li><a href="/BevoMedia/Index/AboutUs.html">About Us</a></li>
-				<li><a href="/BevoMedia/Index/Executives.html">Executives</a></li>
-				<li><a href="/BevoMedia/Index/Partners.html">Partners</a></li>
-				<li><a href="/BevoMedia/Index/Investors.html">Investors</a></li>
-				<li><a href="/BevoMedia/Index/Press.html">Press</a></li>
-				<li><a href="/BevoMedia/Index/Careers.html">Careers</a></li>
-				<br />
-				<li><a href="/BevoMedia/Index/Terms.html">Terms &amp; Conditions</a></li>
-				<li><a href="/BevoMedia/Index/Privacy.html">Privacy Policy</a></li>
-			</ul>
-			<p class="copyright">&copy; 2011 - All Rights Reserved. Bevo Media - San Diego, CA 92130</p>
-		</div>
+	<div class="blank"></div>
+</div><!--close .body-->
+
+<div class="xstripe footer">
+	<div class="shell">
+		<div class="hilite"></div>
 	</div>
+</div>
+<div id="footer">
+	<div class="shell">
+		<div class="logo"><a href="#">bevomedia eXchange : for performance marketing</a></div>
+		<div class="menu">
+			<div class="main">
+				<span>Solutions <b>&#x203A;</b></span>
+				<a href="http://ads.bevomedia.com" target="_blank">Bevo Ads<b></b></a>
+				<a href="http://affportal.bevomedia.com/" target="_blank">Bevo Affiliate Portal</a>
+				<a href="http://networks.bevomedia.com/" target="_blank">Bevo for Networks</a>
+				<a href="http://offers.bevomedia.com/" target="_blank">Bevo OfferHub</a>
+			</div>
+			
+			<div class="sub">
+				<a<?=isActivePage('about');?> href="/BevoMedia/Index/AboutUs.html">About us</a>
+				<a<?=isActivePage('executives');?> href="/BevoMedia/Index/Executives.html">Executives</a>
+				<a<?=isActivePage('partners');?> href="/BevoMedia/Index/Partners.html">Partners</a>
+				<a<?=isActivePage('investors');?> href="/BevoMedia/Index/Investors.html">Investors</a>
+				<a<?=isActivePage('press');?> href="/BevoMedia/Index/Press.html">Press</a>
+				<a<?=isActivePage('careers');?> href="/BevoMedia/Index/Careers.html">Careers</a>
+				<br />
+				<p>
+					&copy; <?php echo date('Y'); ?> - All Rights Reserved. Bevo Media - San Diego, CA 92130
+					<a href="/BevoMedia/Index/Terms.html">Terms &amp; Conditions</a>
+					<a href="/BevoMedia/Index/Privacy.html">Privacy Policy</a>
+				</p>
+			</div>
+		</div><!--close menu-->
+		<div class="clear"></div>
+		
+	</div><!--close shell-->
+</div><!--close footer-->
 
 
 
@@ -133,7 +156,7 @@ $('a.j_shadowbox').live('click', function() {
 	});
 	return false;
 });
-
+<?php /* depreciated 130507
 $('#SearchGo').click(function() {
 
 	var url = "http://offers.bevomedia.com/BevoMedia/OffersFront/Browse.html#get=searchresults&search="+$('#SearchText').val()+"&type=lead&include_mysaved=1&numresults=100&page=1";
@@ -141,6 +164,7 @@ $('#SearchGo').click(function() {
 	return false;
 	
 });
+*/ ?>
 </script>
 
 <?php 
