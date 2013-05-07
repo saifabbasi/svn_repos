@@ -1,36 +1,50 @@
-<p>The Bevo Media Exchange is the affiliate industry's central hub for performance based marketing. The Bevo Media Exchange is to made up of 2 featured platforms, The Bevo Affiliate Portal and The Bevo Networks Interface. The Bevo Media Exchange is the creative new way to create the necessary transparency for both affiliates and networks to interact and grow their businesses together.</p>
-
-<div id="homefeats">
-	<div class="left">
-	<a class="btn bignw" href="http://networks.bevomedia.com/">Bevo for Networks</a>
-		<div class="below">
-			<p>Bevo For Networks is the primary management hub built exclusively for affiliate networks. The Bevo Networks Interface is designed to help affiliate networks grow and more efficiently manage their business.</p>
-			<a class="btn gotonwportal" href="http://networks.bevomedia.com/">Go to Networks Portal</a>
-			<a class="small" href="/BevoMedia/Index/BevoForNetworks.html">or, learn more first</a>
-		</div>
+<div class="box lgray">
+	<?php /*<div class="bgtrans"></div>*/ ?>
+	<div class="cont">
+		<h2>Discover Bevo</h2>
+		<p>The Bevo Media Exchange features 2 platforms, The Bevo Ad Exchange and The Bevo Affiliate Portal.</p>
 	</div>
-	<div class="right">
-	<a class="btn bigaff" href="http://bevomedia.com/">BevoMedia Affiliate Portal</a>
-		<div class="below">
-			<p>The Bevo Media Affiliate Portal is the one stop marketing platform to manage the important needs of affiliate marketers. Loaded with 'must have' tools, the Affiliate Portal is designed to effectively reduce the most time consuming work for affiliates.</p>
-			<a class="btn gotoaffportal" href="http://bevomedia.com/">Go to Affiliate Portal</a>
-			<a class="small" href="/BevoMedia/Index/AffiliatePortal.html">or, learn more first</a>
-		</div>
-	</div>
-	<div class="clear"></div>
-</div><!--close homefeats-->
-
-<div class="col col1">
-	<h3>about bevo</h3>
-	<p>The Bevo Media headquarters is located in San Diego, California. Founded in 2008, The Bevo Media Exchange has grown in to a multi-platform company that caters to every aspect of performance marketing. The Bevo Media Exchange will continue to grow and develop new ways for performance marketers to succeed in this industry.</p>
-	<p><a href="/BevoMedia/Index/AboutUs.html" class="more">more about bevo</a></p>
 </div>
-<div class="col col2 last">
-	<h3>bevo on the web</h3>
-	<div class="socials">
-		<a href="http://ryanbuke.com/" class="icon-ryan">read our<br />official blog</a>
-		<a href="http://twitter.com/BevoMedia" class="icon-twitter" target="_blank">follow us on<br />twitter</a>
-		<a href="http://www.facebook.com/bevomedia" class="icon-facebook" target="_blank">find us on<br />facebook</a>
+
+<div class="box half borderright">
+	<?php /*<div class="bgtrans"></div>*/ ?>
+	<div class="cont">
+		<a class="btn logo_ads" href="http://ads.bevomedia.com/" target="_blank">Bevo Media Ad Exchange</a>
+		<p>The Bevo Ad Exchange is the first bidding platform to buy affiliate traffic in real time. The Bevo Ad Exchange acts as a central self served ad buying platform to buy both affiliate trafffic and display traffic from a single interface.</p>
+		<a class="tbtn big adsteal" href="http://ads.bevomedia.com/" target="_blank">Visit the Bevo Ad Exchange</a>
+	</div>
+</div>
+<div class="box half last">
+	<?php /*<div class="bgtrans"></div>*/ ?>
+	<div class="cont">
+		<a class="btn logo_aff" href="http://affportal.bevomedia.com/" target="_blank">Bevo Media Ad Exchange</a>
+		<p>The Bevo Media Affiliate Portal is both a free click tracking platform and an exchange that sells affiliate traffic in a real time. The tracking platform allows users to track and optimize all of their campaigns performance metrics. Users can optionally opt-in their tracking campaigns into the affiliate exchange to get paid per click for their traffic.</p>
+		<a class="tbtn big affblue" href="http://affportal.bevomedia.com/" target="_blank">Visit the Bevo Affiliate Portal</a>
 	</div>
 </div>
 <div class="clear"></div>
+
+<div class="box lgray">
+	<?php /*<div class="bgtrans"></div>*/ ?>
+	<div class="cont">
+		<h2>About Us</h2>
+		<p>The Bevo Media headquarters is located in San Diego, California. Founded in 2008, Bevo Media has grown into a multi-platform company that has created a more transparent marketplace to buy and sell performance based traffic.</p>
+	</div>
+</div>
+
+<?php /*for bgpic later
+<script>
+$(document).ready(function() {
+	soap_imgLoader($('#bgi'), '/Themes/BevoMedia/Images/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.jpg');
+});
+function soap_imgLoader(div, pic) {
+	var img = new Image();
+	$(img).load(function() {
+		$(this).hide();
+		//$(div).prepend(this);
+		div.append(this);
+		$(this).fadeIn();
+	}).attr('src', pic);
+}
+</script>
+*/ ?>
