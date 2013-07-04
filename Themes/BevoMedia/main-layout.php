@@ -94,10 +94,7 @@
 	</div><!--close header-->
 	
 	<div id="main">
-		<?php /*for bgpic later
-		<div id="bgi"></div>
-		<div class="bgtrans_main"></div>
-		*/ ?>		
+		<div id="bgi"></div>		
 		<div class="shell">
 			<?=$this->{'Instance/ViewContent'};?>
 			<div class="cl">&nbsp;</div>
@@ -106,11 +103,13 @@
 	<div class="blank"></div>
 </div><!--close .body-->
 
+<?php /*
 <div class="xstripe footer">
 	<div class="shell">
 		<div class="hilite"></div>
 	</div>
 </div>
+*/ ?>
 <div id="footer">
 	<div class="shell">
 		<div class="logo"><a href="#">bevomedia eXchange : for performance marketing</a></div>
