@@ -30,7 +30,7 @@
 
 <script>
 $(document).ready(function() {
-	soap_imgLoader($('#bgi'), 'http://soapdesigned.com/project/bevo/v3_img_x_nonlogin_130704/public/images/exchange/non-login/bgi.jpg');
+	soap_imgLoader($('#bgi'), 'http://exchange.bevomedia.com/Themes/BevoMedia/Images/bgi.jpg');
 });
 function soap_imgLoader(div, pic) {
 	var img = new Image();
