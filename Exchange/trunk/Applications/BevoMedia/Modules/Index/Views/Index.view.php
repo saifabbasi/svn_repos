@@ -7,7 +7,7 @@
 	<div class="box half">
 		<div class="cont">
 			<a class="btn logo_ads" href="http://ads.bevomedia.com/" target="_blank">Bevo Media Ad Exchange</a>
-			<p>The Bevo Ad Exchange is the first bidding platform to buy affiliate traffic in real time. It acts as a central self-serve ad buying platform. As an advertiser, you can use the marketing expertise of some of the best-performing affiliates that run their traffic through the Bevo Affiliate Portal to your advantage, by selectively bidding on their traffic. From the same interface, you can also buy conventional display traffic from millions of high-traffic websites.</p>
+			<p>The Bevo Ad Exchange is the first ad buying platform that allows advertisers to buy both affiliate traffic and display traffic on one platform. As an advertiser, you have the ability to bid on affiliates as their own traffic source, and have your product instantly rotate into their campaign. From the same interface, you can also buy conventional display and retargeting traffic from hundreds of thousands high-traffic websites.</p>
 			<a class="tbtn big adsteal" href="http://ads.bevomedia.com/" target="_blank">Visit the Bevo Ad Exchange</a>
 		</div>
 	</div>
