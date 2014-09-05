@@ -14,7 +14,7 @@
 	<div class="box half last">
 		<div class="cont">
 			<a class="btn logo_aff" href="http://affportal.bevomedia.com/" target="_blank">Bevo Media Ad Exchange</a>
-			<p>The Bevo Affiliate Portal is both a free click-tracking platform and an exchange that allows you to auction your affiliate traffic in real time. The integrated, feature-rich tracking platform enables you to accurately track and optimize all performance metrics of your marketing campaigns, no matter the niche or promotion method. Additionally, you can opt-in to include your campaigns into the Affiliate Exchange and get paid per click for your traffic.</p>
+			<p>The Bevo Affiliate Portal is both a free click-tracking platform and a next generation affiliate network that allows you to auction your affiliate traffic in real time. The integrated, feature-rich tracking platform enables you to accurately track and optimize all performance metrics of your marketing campaigns, no matter the niche or promotion method. Additionally, you can opt-in to include your campaigns into the Affiliate Exchange and get paid per click for your traffic.</p>
 			<a class="tbtn big affblue" href="http://affportal.bevomedia.com/" target="_blank">Visit the Bevo Affiliate Portal</a>
 		</div>
 	</div>
