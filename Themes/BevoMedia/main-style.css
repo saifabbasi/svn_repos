@@ -18,6 +18,8 @@ a.more:hover { text-decoration:none; }
 .floatleft { float:left; }
 .floatright { float:right; }
 
+.vize_capital_logo{display: block; margin: 25px auto; width: 290px;}
+
 input, textarea, select { font-size:12px; font-family:Arial, Helvetica, sans-serif; }
 textarea { overflow:auto; }
 

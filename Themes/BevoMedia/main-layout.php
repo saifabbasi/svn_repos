@@ -124,14 +124,14 @@
 			
 			<div class="sub">
 				<a<?=isActivePage('about');?> href="/BevoMedia/Index/AboutUs.html">About us</a>
-				<a<?=isActivePage('executives');?> href="/BevoMedia/Index/Executives.html">Executives</a>
+				<a<?=isActivePage('executives');?> href="/BevoMedia/Index/Executives.html">Management</a>
 				<a<?=isActivePage('partners');?> href="/BevoMedia/Index/Partners.html">Partners</a>
 				<a<?=isActivePage('investors');?> href="/BevoMedia/Index/Investors.html">Investors</a>
 				<a<?=isActivePage('press');?> href="/BevoMedia/Index/Press.html">Press</a>
 				<a<?=isActivePage('careers');?> href="/BevoMedia/Index/Careers.html">Careers</a>
 				<br />
 				<p>
-					&copy; <?php echo date('Y'); ?> - All Rights Reserved. Bevo Media - San Diego, CA 92130
+					&copy; <?php echo date('Y'); ?> - All Rights Reserved. Bevo Media - Santa Clara, CA 95054
 					<a href="/BevoMedia/Index/Terms.html">Terms &amp; Conditions</a>
 					<a href="/BevoMedia/Index/Privacy.html">Privacy Policy</a>
 				</p>
