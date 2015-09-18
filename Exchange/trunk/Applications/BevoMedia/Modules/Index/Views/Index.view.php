@@ -29,7 +29,7 @@ Affiliate Exchange and get paid per click for your traffic.</p>
 <div class="box yell flushtop">
 	<div class="cont">
 		<h2>about us</h2>
-		<p>The Bevo Media headquarters are located in San Diego, California. Founded in 2008, Bevo Media has grown into a multi-platform company that has created a more transparent marketplace to buy and sell performance based traffic.</p>
+		<p>The Bevo Media headquarters are located in 5201 Great America Pkwy., Suite 320, Santa Clara, California, 95054, Bevo Media has grown into a multi-platform company that has created a more transparent marketplace to buy and sell performance based traffic.</p>
 	</div>
 </div>
 

@@ -4,7 +4,7 @@
 <tr>
 	<td>
 		<p>
-			Located in the heart of sunny San Diego, California, the Bevo work atmosphere emphasizes quality of life, 
+			Located in the heart of sunny San Clara, California, the Bevo work atmosphere emphasizes quality of life, 
 			built into a competitive and creative environment.
 		</p>
 		
